@@ -5,4 +5,4 @@ Practice making changes!
 
 Practice cloning project down into home folder.
 
-To create a PAT go to settings > developer sesttings > personal access token
+To create a PAT go to settings > developer settings > personal access token

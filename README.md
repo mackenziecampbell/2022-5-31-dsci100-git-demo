@@ -2,3 +2,5 @@
 First DSCI100 Git Repository
 
 Practice making changes!
+
+Practice cloning project down into home folder.
